@@ -1,6 +1,48 @@
 ## Fact Findings 
 
-How does peer to peer lending works.
+### What is P2P Lending?
+
+Peer to peer means a borrower is connected directly to the lender without FI through an online platform.
+Users usually signs up for the service , user should go through a basic verification check such as valid ID’s and Home address and Bank Account Details and a minimum credit score ,then user is qualified as borrowers and is a allowed to make online listing and then lenders(user who invest) bid on the  listing , then bid amount is locked. There are certain rules to prevent gamification of the rules through  online paltform. Usually platforms charge 2 % from lenders for screening a borrower , they  Provide one step documentation and acts as an arbitrator.
+
+Once the loan is funded the loan status becomes current and repayment schedule is generated , usually on the online platforms. 
+
+
+### How does collections work?
+
+If borrowers end up paying late , then it is sent to collection agency.  (Delinquencies are reported also to credit agency.)
+
+
+## Data varibales acts as deciding factors for P2P Loan
+
+### Friendship as internal social capital - 
+Borrowers with friends are more likely to have their loan requests funded and that these loans have lower interest rates, friendship lowers default probability.
+
+### Apperance as a variable 
+The role of appearance  -- borrowers who appear more trustworthy have higher probabilities of obtaining a loan and pay lower interest rates than do borrowers who appear less trustworthy. This finding suggests that appearance-based impressions affect individuals -- find that borrowers who appear more trustworthy indeed have better credit scores and lower default rates than do borrowers who appear less trustworthy. This finding could indicate that appearance conveys information about an individual’s reputational capital. -- trustworthy appearance and trustworthy behavior could be linked through common biological factors.
+
+
+### Funding probability based on different dimensions / variables ? WIP
+
+
+### Role of FI
+Financial insitutions are not required in this process ,since information about borrowers is collected privately through different means and is analysed and then sent to the FI/Lenders to disburse loans. (Note there can be many lenders or just a single lender).Once the information is collected then it can be processed to larger FI for further loan approval and disbursal.
+
+### Why does it work?
+P2P lending platforms made person-to-person loans economically viable on a national scale by reducing the search costs and other transaction costs inherent in traditional person-to-person loans. P2P lending platforms reduce search costs.
+
+Microfinance Institutions (MFIs) have increased credit availability to the poor and reduced interest rates from those charged by conventional money lenders significantly, by overcoming information asymmetry and monitoring problems by innovative techniques. 
+
+
+###  Risks involved in P2P
+Well-documented privacy risks are involved because P2P platforms collect and store substantial personal identification and credit data which can be sold or hacked.
+
+### Stakeholders
+The platforms that advertise and enforce the loans have little direct stake in loan repayment 
+
+### Traiditional P2P Screening problem
+Vetting a borrower on a centralised platform is risky and prone to fraud.
+  
 
 ## Pre-Requisites 
 
@@ -67,12 +109,17 @@ to get the funds/liquidity.
 Even the asset belongs to bank , customer has to pay huge bank charges/interest rates.
 
 ## Ref
+TBA
+TBD
 
 ## Digital Money Tracking
+
 
 ## How Finocial Can Help
 
 ## Key Differences
+
+## Decentralised model for screening a loan proposal.
 
 
 
